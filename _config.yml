@@ -15,5 +15,5 @@ sass:
 title:		           "Portfolio Jekyll Theme"
 description:	       "Powered by Jekyll and GitHub Pages"
 author:              "Paul Le"
-baseurl : "/portfolio"
+baseurl : ""
 url : ""
